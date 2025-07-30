@@ -51,7 +51,7 @@ This notebook performs comprehensive Exploratory Data Analysis (EDA) to uncover 
 
 ---
 
-## Outcome / Impact  
+## Outcome 
 - Product choice is influenced by gender and marital status  
 - High-income and fitness-conscious customers show higher treadmill usage  
 - Visualization insights assist in customer segmentation and targeted marketing  
