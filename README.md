@@ -59,25 +59,4 @@ This notebook performs comprehensive Exploratory Data Analysis (EDA) to uncover 
 
 ---
 
-## Repository Contents  
-- `EDA Project File.ipynb` – Jupyter notebook containing full EDA  
-- Sample visualizations and charts embedded in the notebook  
-- 
-
----
-
-## How to Use  
-1. Clone this repository  
-2. Open the notebook in Jupyter or Google Colab  
-3. Run all cells to reproduce the analysis  
-4. Modify or extend the code for your own data exploration
-
----
-
-## Future Work  
-- Build predictive models (e.g., customer segmentation, product recommendation)  
-- Incorporate additional datasets (e.g., customer satisfaction or retention data)  
-- Deploy visualizations into a dashboard format (e.g., Power BI or Tableau)
-
----
 
