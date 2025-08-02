@@ -1,7 +1,7 @@
 # Exploratory Data Analysis of Aerofit Treadmill Customer Data Using Python
 
 ## Problem Statement  
-Aerofit, a fitness equipment manufacturer, seeks to better understand the demographic and behavioral characteristics of customers who purchase different treadmill models. The objective is to uncover patterns and correlations that can guide targeted marketing, improve product positioning, and prepare the data for future predictive modeling.
+Aerofit, a fitness equipment manufacturer, aims to understand the demographic and behavioral characteristics influencing customer purchases of treadmill models. With a structured dataset containing customer attributes such as age, gender, income, fitness level, and treadmill usage, the challenge lies in uncovering hidden patterns and correlations that impact product preference. This project performs comprehensive exploratory data analysis (EDA) to derive actionable insights, support targeted marketing strategies, improve product positioning, and prepare the dataset for future predictive modeling.
 
 ---
 
